@@ -32,8 +32,8 @@ Copyright (c) 2015 Daniel Eden
 }
 
 .animated.hinge {
-  -webkit-animation-duration: 10s;
-  animation-duration: 10s;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
 }
 
 .animated.bounceIn,

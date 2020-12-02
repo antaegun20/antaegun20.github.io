@@ -2251,6 +2251,34 @@ fieldset:disabled a.btn {
       -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
       box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5); }
 
+.btn-uniblue {
+  color: #fff;
+  background-color: #001b54;
+  border-color: #001b54; }
+  .btn-uniblue:hover {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc; }
+  .btn-uniblue:focus, .btn-uniblue.focus {
+    color: #fff;
+    background-color: #0069d9;
+    border-color: #0062cc;
+    -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5); }
+  .btn-uniblue.disabled, .btn-uniblue:disabled {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff; }
+  .btn-uniblue:not(:disabled):not(.disabled):active, .btn-uniblue:not(:disabled):not(.disabled).active,
+  .show > .btn-uniblue.dropdown-toggle {
+    color: #fff;
+    background-color: #0062cc;
+    border-color: #005cbf; }
+    .btn-uniblue:not(:disabled):not(.disabled):active:focus, .btn-uniblue:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-uniblue.dropdown-toggle:focus {
+      -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+      box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5); }
+
 .btn-secondary {
   color: #fff;
   background-color: #6c757d;

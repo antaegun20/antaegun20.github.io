@@ -1,4 +1,5 @@
-# 안태건 Taegun An <img src="author-taegun.jpg"  width="700" height="370">
+# 안태건 Taegun An 
+<img src="author-taegun.jpg" width="700" height="370">
 
 ## Introduction to Myself, **Taegun An**, Github page, May 2024
 My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.

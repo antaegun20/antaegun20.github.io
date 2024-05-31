@@ -1,8 +1,12 @@
 # 안태건 Taegun An
-Introduction to Taegun An, Taegun An, Github page, May 2024
+
+## Introduction to Taegun An, Taegun An, Github page, May 2024 \
+My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.
+I'm keep studying various concepts and methods for it, and thinking their application to the NAS.
 
 ## Contacts
 - email: antaegun20@korea.ac.kr
+- linkedin: [Taegun An](https://www.linkedin.com/in/taegun-an-a41513286/)
 - istg: [dante.gun](https://www.instagram.com/dante.gun/)
 - blog: [curiositae](https://curiositae.tistory.com/manage)
 - office: [RAINLAB](https://rain.korea.ac.kr)

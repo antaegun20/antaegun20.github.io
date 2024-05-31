@@ -21,7 +21,7 @@ short-term exchange course
 
 ## Publications
 - CycleGANAS: Differentiable Neural Architecture Search for CycleGAN, **Taegun An** and Changhee Joo*, CVPR-NAS Workshop, June 2024.
-- DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling, **Taegun An** and Changhee Joo*, Arxiv Preprint, Sep. 2024
+- graph DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling, **Taegun An** and Changhee Joo*, Arxiv Preprint, Sep. 2024
 
 ## Honors/Awards
 - UNIST Cultural Exchange Scholarship, 2018
@@ -34,6 +34,6 @@ English: Upper-Intermediate / Korean: Native
 
 
 ## Activities
-UNIST Ensemble (Orchestra Club, Violin) \
-KUFIT (Fitness Club, bodybuilding)
+UNIST Ensemble (Orchestra Club, Violin :violin:) \
+KUFIT (Fitness Club, bodybuilding, :muscle:)
 

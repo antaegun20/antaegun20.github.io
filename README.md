@@ -1,7 +1,7 @@
 # 안태건 Taegun An 
 
 ## Introduction to Myself, **Taegun An**, Github page, May 2024
-<img src="https://github.com/antaegun20/antaegun20.github.io/assets/91294958/86536c55-7c6c-4240-9a80-eb60950ed194" width="700" height="370">
+<img src="https://github.com/antaegun20/antaegun20.github.io/assets/91294958/86536c55-7c6c-4240-9a80-eb60950ed194.jpg" width="700" height="370">
 
 My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.
 I'm keep studying various concepts and methods for it, and thinking their application to the NAS.

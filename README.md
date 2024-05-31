@@ -29,11 +29,11 @@ short-term exchange course
 
 
 ## Skills
-Used to C/C++, Python \
-English: Upper-Intermediate / Korean: Native
+- Used to C/C++, Python \
+- English: Upper-Intermediate / Korean: Native
 
 
 ## Activities
-UNIST Ensemble (Orchestra Club, Violin :violin:) \
-KUFIT (Fitness Club, bodybuilding, :muscle:)
+- UNIST Ensemble (Orchestra Club, Violin :violin:) \
+- KUFIT (Fitness Club, bodybuilding, :muscle:)
 

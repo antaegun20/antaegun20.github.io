@@ -14,13 +14,11 @@ I'm keep studying various concepts and methods for it, and thinking their applic
 - office: [RAINLAB](https://rain.korea.ac.kr)
 
 ## Education
-- Korea University (KU) \
-Ph.D. Student (Integrated Course of Masters & Doctors Degree), Computer Science & Engineering \
-GPA: 4.34/4.5
+- [2020 ~ now] Korea University (KU) \
+Ph.D. Student (Integrated Course of MS & Ph.D), Computer Science & Engineering
 
-- Ulsan National Institute of Science and Technology (UNIST) \
-Bachelor’s degree, 2020, Computer Science & Engineering \
-GPA: x.xx/4.3
+- [2016 ~ 2020] Ulsan National Institute of Science and Technology (UNIST) \
+Bachelor’s degree, Computer Science & Engineering
 
 - University of Arts London (UAL) \
 short-term exchange course

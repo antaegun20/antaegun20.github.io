@@ -6,6 +6,7 @@ I'm keep studying various concepts and methods for it, and thinking their applic
 
 ## Contacts
 - email: antaegun20@korea.ac.kr
+- google scholar: [Taegun An](https://scholar.google.com/citations?user=7-sQxgkAAAAJ&hl=en&oi=ao)
 - linkedin: [Taegun An](https://www.linkedin.com/in/taegun-an-a41513286/)
 - istg: [dante.gun](https://www.instagram.com/dante.gun/)
 - blog: [curiositae](https://curiositae.tistory.com/)
@@ -38,6 +39,6 @@ short-term exchange course
 
 
 ## Activities
-- UNIST Ensemble (Orchestra Club, Violin :violin:)
+- UNIST Ensemble (Orchestra Club, Violin :violin:) :violin:
 - KUFIT (Fitness Club, bodybuilding, :muscle:)
 

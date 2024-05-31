@@ -8,7 +8,7 @@ I'm keep studying various concepts and methods for it, and thinking their applic
 - email: antaegun20@korea.ac.kr
 - linkedin: [Taegun An](https://www.linkedin.com/in/taegun-an-a41513286/)
 - istg: [dante.gun](https://www.instagram.com/dante.gun/)
-- blog: [curiositae](https://curiositae.tistory.com/manage)
+- blog: [curiositae](https://curiositae.tistory.com/)
 - office: [RAINLAB](https://rain.korea.ac.kr)
 
 ## Education

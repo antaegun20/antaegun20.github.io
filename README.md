@@ -40,5 +40,5 @@ short-term exchange course
 
 ## Activities
 - UNIST Ensemble (Orchestra Club, Violin 🎻)
-- KUFIT (Fitness Club, bodybuilding, :muscle:)
+- KUFIT (Fitness Club, bodybuilding, 💪)
 

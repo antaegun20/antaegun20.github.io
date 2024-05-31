@@ -1,6 +1,6 @@
 # 안태건 Taegun An
 
-## Introduction to Taegun An, Taegun An, Github page, May 2024
+## Introduction to Taegun An, **Taegun An**, Github page, May 2024
 My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.
 I'm keep studying various concepts and methods for it, and thinking their application to the NAS.
 

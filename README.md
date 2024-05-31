@@ -3,26 +3,25 @@ Introduction to Taegun An
 
 ## Contacts
 - email: antaegun20@korea.ac.kr
-- istg: ...
-- blog: ...
-Ph.D Student in RAINLAB(https://rain.korea.ac.kr/members/students), Korea University
-19-16, Goryeodae-ro 11-gil, Seongbuk-gu, Seoul, Republic of Korea
+- istg: @dante.gun
+- blog: [curiositae](https://curiositae.tistory.com/manage)
+- office: [RAINLAB](https://rain.korea.ac.kr), Korea University
 
 ## Education
-Ph.D. Student in Korea University
-Computer Science & Engineering
+- Korea University (KU)
+Ph.D. Student (Integrated Course of Masters & Doctors Degree), Computer Science & Engineering
 GPA: 4.34/4.5
 
-Ulsan National Institute of Science and Technology (UNIST)
-Received a bachelor’s degree in 2020
-Computer Science & Engineering
-GPA: xx/4.3
+- Ulsan National Institute of Science and Technology (UNIST)
+Bachelor’s degree, 2020, Computer Science & Engineering
+GPA: x.xx/4.3
 
 University of Arts London (UAL)
+short-term exchange course
 
 ## Publications
-- CycleGANAS: Differentiable Neural Architecture Search for CycleGAN, Taegun An and Changhee Joo*, CVPR-NAS Workshop, June 2024.
-- DAG-NAS, Arxiv Preprint, Sep. 2024
+- CycleGANAS: Differentiable Neural Architecture Search for CycleGAN, **Taegun An** and Changhee Joo*, CVPR-NAS Workshop, June 2024.
+- DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling, **Taegun** An and Changhee Joo*, Arxiv Preprint, Sep. 2024
 
 
 ## Honors/Awards
@@ -32,7 +31,7 @@ University of Arts London (UAL)
 
 ## Skills
 Used to C/C++, Python
-English: … / Korean: Native
+English: Upper-Intermediate / Korean: Native
 
 
 ## Activities

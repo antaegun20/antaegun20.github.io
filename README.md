@@ -1,9 +1,9 @@
 # 안태건 Taegun An
-Introduction to Taegun An
+Introduction to Taegun An, Taegun An, Github page, May 2024
 
 ## Contacts
 - email: antaegun20@korea.ac.kr
-- istg: @dante.gun
+- istg: [dante.gun](https://www.instagram.com/dante.gun/)
 - blog: [curiositae](https://curiositae.tistory.com/manage)
 - office: [RAINLAB](https://rain.korea.ac.kr)
 

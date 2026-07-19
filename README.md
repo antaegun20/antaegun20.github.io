@@ -25,10 +25,14 @@ Bachelor’s degree, Computer Science & Engineering
 short-term exchange course
 
 ## Publications
-- On the Depth Scalability of Logic Gate Networks; **Taegun An**, Dohun kim, Haebeom Lee and Changhee Joo*, 2026
-- DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling; **Taegun An** and Changhee Joo*, Neural Networks, Feb. 2026
-- HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression, Junhao Cai; **Taegun An**, Chengjun Jin, Sung Il Choi, Juhyun Park, and Changhee Joo*, AAAI 2026. (Oral)
-- CycleGANAS: Differentiable Neural Architecture Search for CycleGAN; **Taegun An** and Changhee Joo*, CVPR-NAS Workshop, June 2024.
+- On the Depth Scalability of Logic Gate Networks; \
+  **Taegun An**, Dohun kim, Haebeom Lee and Changhee Joo*, 2026
+- DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling; \
+  **Taegun An** and Changhee Joo*, Neural Networks, Feb. 2026
+- HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression \
+  Junhao Cai; **Taegun An**, Chengjun Jin, Sung Il Choi, Juhyun Park, and Changhee Joo*, AAAI 2026. (Oral)
+- CycleGANAS: Differentiable Neural Architecture Search for CycleGAN; \
+  **Taegun An** and Changhee Joo*, CVPR-NAS Workshop, June 2024.
 
 ## Honors/Awards
 - UNIST Cultural Exchange Scholarship, 2018

@@ -1,5 +1,5 @@
 # 안태건 Taegun An 
-<img src='author-taegun.jpg' width='240' height='360'> <img src='pinkdante.jpg' width='240' height='360'> <img src='dante.jpg' width='240' height='360'> <img src='taegun-longhair.jpg' width='240' height='360'> 
+<img src='author-taegun.jpg' width='240' height='320'> <img src='pinkdante.jpg' width='240' height='320'> <img src='dante.jpg' width='240' height='320'> <img src='taegun-longhair.jpg' width='240' height='320'> 
 
 ## Introduction to Myself, **Taegun An**, Github page, May 2024
 My research interests lie in efficient and explainable neural architecture design, including NAS, optimization, and parameter–performance trade-offs. I like asking how much performance we can squeeze out of an architecture—before simply throwing more parameters at it.

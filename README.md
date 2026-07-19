@@ -2,8 +2,8 @@
 <img src='author-taegun.jpg' width='240' height='360'> <img src='pinkdante.jpg' width='240' height='360'> <img src='dante.jpg' width='240' height='360'> <img src='taegun-longhair.jpg' width='240' height='360'> 
 
 ## Introduction to Myself, **Taegun An**, Github page, May 2024
-My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.
-I'm keep studying various concepts and methods for it, and thinking their application to the NAS.
+My research interests lie in efficient and explainable neural architecture design, including NAS, optimization, and parameter–performance trade-offs. I like asking how much performance we can squeeze out of an architecture—before simply throwing more parameters at it.
+
 
 ## Contacts
 - email: antaegun20@korea.ac.kr
@@ -33,14 +33,15 @@ short-term exchange course
 ## Honors/Awards
 - UNIST Cultural Exchange Scholarship, 2018
 - Best Presentation Award, A3 Foresight Program, 2023
-
+- Expert Research Personnel, 2023 ~ Current
 
 ## Skills
-- Used to C/C++, Python
-- English: Upper-Intermediate / Korean: Native
-
+- Mostly Python, occasionally C/C++
+- Korean: Native · English: Upper-Intermediate · Japanese: merely communicable
 
 ## Activities
-- UNIST Ensemble (Orchestra Club, Violin 🎻)
-- KUFIT (Fitness Club, bodybuilding, 💪)
+- UNIST Sudam(手談) (Boardgame Club, Baduk Amateur 初段(1st Dan, Shodan) ⚫⚪)
+- UNIST Ensemble (Orchestra Club, Violinist by hobby 🎻)
+- KUFIT (Fitness Club, bodybuilding, 💪) \
+  S:155kg B:95kg D:155kg Total: 405kg
 

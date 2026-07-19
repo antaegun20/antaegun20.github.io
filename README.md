@@ -9,6 +9,7 @@ I'm keep studying various concepts and methods for it, and thinking their applic
 - email: antaegun20@korea.ac.kr
 - google scholar: [Taegun An](https://scholar.google.com/citations?user=7-sQxgkAAAAJ&hl=en&oi=ao)
 - linkedin: [Taegun An](https://www.linkedin.com/in/taegun-an-a41513286/)
+- DBLP: [Taegun An](https://dblp.org/pid/325/0951.html)
 - istg: [dante.gun](https://www.instagram.com/dante.gun/)
 - blog: [curiositae](https://curiositae.tistory.com/)
 - office: [RAINLAB](https://rain.korea.ac.kr)
@@ -24,6 +25,7 @@ Bachelor’s degree, Computer Science & Engineering
 short-term exchange course
 
 ## Publications
+- On the Depth Scalability of Logic Gate Networks; **Taegun An**, Dohun kim, Haebeom Lee and Changhee Joo*, 2026
 - DAG-NAS: Explainable Neural Architecture Search for Reinforcement Learning via Scalar-level DAG Modeling; **Taegun An** and Changhee Joo*, Neural Networks, Feb. 2026
 - HCF: Hierarchical Cascade Framework for Distributed Multi-Stage Image Compression, Junhao Cai; **Taegun An**, Chengjun Jin, Sung Il Choi, Juhyun Park, and Changhee Joo*, AAAI 2026. (Oral)
 - CycleGANAS: Differentiable Neural Architecture Search for CycleGAN; **Taegun An** and Changhee Joo*, CVPR-NAS Workshop, June 2024.

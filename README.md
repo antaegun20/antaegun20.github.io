@@ -21,7 +21,7 @@ Ph.D. Student (Integrated Course of MS & Ph.D), Computer Science & Engineering
 - [2016 ~ 2020] Ulsan National Institute of Science and Technology (UNIST) \
 Bachelor’s degree, Computer Science & Engineering
 
-- University of Arts London (UAL) \
+- [2018] University of Arts London (UAL) \
 short-term exchange course
 
 ## Publications

@@ -1,5 +1,5 @@
 # 안태건 Taegun An 
-<img src='author-taegun.jpg' width='300' height='400'> <img src='dante.jpg' width='300' height='400'>
+<img src='author-taegun.jpg' width='300' height='400'> <img src='pinkdante.jpg' width='300' height='400'> <img src='dante.jpg' width='300' height='400'> <img src='taegun-longhair.jpg' width='300' height='400'> 
 
 ## Introduction to Myself, **Taegun An**, Github page, May 2024
 My current interest is more explainable and flexible neural architecture search (NAS) that can be applied to any type of task.
